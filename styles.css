@@ -1,0 +1,14 @@
+:root {
+  --primary-background-color: #e5e5e5;
+  --secondary-background-color: #f0dcc5;
+  --brand-color: #647b64;
+  --title-text-color: #4f4f4f;
+  --sections-color: #f3b562;
+  --hover-bg-color: #ffffff;
+  --primary-text-color: #4f4f4f;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--primary-background-color);
+}
